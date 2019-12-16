@@ -1,0 +1,2 @@
+memory=com.simple.spidemo.dubbospi.common.status.support.MemoryStatusChecker
+load=com.simple.spidemo.dubbospi.common.status.support.LoadStatusChecker

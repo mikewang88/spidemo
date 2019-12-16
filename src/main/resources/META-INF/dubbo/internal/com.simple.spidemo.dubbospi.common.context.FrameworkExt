@@ -1,0 +1,3 @@
+config=com.simple.spidemo.dubbospi.config.context.ConfigManager
+environment=com.simple.spidemo.dubbospi.common.config.Environment
+repository=com.simple.spidemo.dubbospi.rpc.model.ServiceRepository

@@ -1,0 +1,4 @@
+fixed=com.simple.spidemo.dubbospi.common.threadpool.support.fixed.FixedThreadPool
+cached=com.simple.spidemo.dubbospi.common.threadpool.support.cached.CachedThreadPool
+limited=com.simple.spidemo.dubbospi.common.threadpool.support.limited.LimitedThreadPool
+eager=com.simple.spidemo.dubbospi.common.threadpool.support.eager.EagerThreadPool

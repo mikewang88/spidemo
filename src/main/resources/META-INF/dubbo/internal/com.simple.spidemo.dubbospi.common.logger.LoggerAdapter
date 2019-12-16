@@ -1,0 +1,5 @@
+slf4j=com.simple.spidemo.dubbospi.common.logger.slf4j.Slf4jLoggerAdapter
+jcl=com.simple.spidemo.dubbospi.common.logger.jcl.JclLoggerAdapter
+log4j=com.simple.spidemo.dubbospi.common.logger.log4j.Log4jLoggerAdapter
+jdk=com.simple.spidemo.dubbospi.common.logger.jdk.JdkLoggerAdapter
+log4j2=com.simple.spidemo.dubbospi.common.logger.log4j2.Log4j2LoggerAdapter

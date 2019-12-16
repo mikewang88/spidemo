@@ -1,0 +1,2 @@
+adaptive=com.simple.spidemo.dubbospi.common.extension.factory.AdaptiveExtensionFactory
+spi=com.simple.spidemo.dubbospi.common.extension.factory.SpiExtensionFactory

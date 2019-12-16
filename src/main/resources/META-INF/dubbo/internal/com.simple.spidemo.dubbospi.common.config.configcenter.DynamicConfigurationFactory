@@ -1,0 +1,2 @@
+nop=com.simple.spidemo.dubbospi.common.config.configcenter.nop.NopDynamicConfigurationFactory
+file=com.simple.spidemo.dubbospi.common.config.configcenter.file.FileSystemDynamicConfigurationFactory

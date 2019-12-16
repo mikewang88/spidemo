@@ -1,0 +1,2 @@
+direct=com.simple.spidemo.dubbospi.event.DirectEventDispatcher
+parallel=com.simple.spidemo.dubbospi.event.ParallelEventDispatcher

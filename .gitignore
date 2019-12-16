@@ -1,0 +1,38 @@
+# Log
+*logs/
+*.log
+*keys/
+
+# TestNG
+*test-output/
+
+#OS generated files ignored#
+.DS_Store
+.classpath
+.project
+.settings
+target
+bin
+.myumldata
+*.mymetadata
+*~
+rebel.xml
+.$*
+*.home_IS_UNDEFINED
+*.IS_UNDEFINED
+*output_IS_UNDEFINED
+calculation-deployer
+training-deployer
+.idea/**/*.*
+*.iml
+node_modules
+*.ipr
+*.iws
+rebel-remote.xml
+
+#customized setting files
+kunta-service.properties
+kunta-web.properties
+kunta.properties
+deploy-service/conf/
+deploy-service/tomcat/conf/server.xml

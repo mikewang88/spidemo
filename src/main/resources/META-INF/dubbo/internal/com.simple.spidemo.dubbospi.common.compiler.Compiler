@@ -1,0 +1,3 @@
+adaptive=com.simple.spidemo.dubbospi.common.compiler.support.AdaptiveCompiler
+jdk=com.simple.spidemo.dubbospi.common.compiler.support.JdkCompiler
+javassist=com.simple.spidemo.dubbospi.common.compiler.support.JavassistCompiler

@@ -1,0 +1,2 @@
+echo=com.simple.spidemo.dubbospi.rpc.service.EchoServiceDetector
+generic=com.simple.spidemo.dubbospi.rpc.service.GenericServiceDetector
